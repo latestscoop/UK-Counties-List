@@ -1,6 +1,6 @@
 # UK Counties List
 
-Total = 98
+Total (ceremonial / administrative) = 98
 
 England = 48
 
