@@ -1,11 +1,16 @@
 # UK Counties List
 
-Total (ceremonial / administrative) = 98
+Total = 99
 
-England = 48
+England (Ceremonial) = 48
 
-Northern Island = 6
+Northern Island (Historic) = 6
 
-Scotland = 36
+Scotland (Council Areas) = 32
 
-Wales = 8
+Wales (Historic) = 13
+
+Sources:
+
+Scotland: https://en.wikipedia.org/wiki/Subdivisions_of_Scotland#Council_areas
+Others: https://en.wikipedia.org/wiki/Counties_of_the_United_Kingdom
