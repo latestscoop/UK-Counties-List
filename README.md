@@ -13,4 +13,5 @@ Wales (Historic) = 13
 Sources:
 
 Scotland: https://en.wikipedia.org/wiki/Subdivisions_of_Scotland#Council_areas
+
 Others: https://en.wikipedia.org/wiki/Counties_of_the_United_Kingdom
